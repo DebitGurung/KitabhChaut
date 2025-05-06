@@ -1,0 +1,6 @@
+@KitabhChaut_HostAddress = http://localhost:5228
+
+GET {{KitabhChaut_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
